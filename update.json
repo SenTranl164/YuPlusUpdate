@@ -1,7 +1,7 @@
 {
   "versionCode": 156,
   "versionName": "6.4.2",
-  "downloadUrl": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/SenTranl164/YuPlusUpdate/main/YuPlus-6.4.2-arm64-v8a.apk",
+  "downloadUrl": "https://v4.gh-proxy.org/https://github.com/SenTranl164/YuPlusUpdate/blob/main/YuPlus-6.4.2-arm64-v8a.apk",
   "md5": "a89f31827f9ec9b1fbe84985014f0f68",
   "force": false,
   "changelog": "6.4.2 更新内容：\n1. 更新配置与安装包下载地址切换为 gh-proxy 代理 GitHub raw\n2. 提升国内网络环境下自动检查更新的成功率\n3. 保留启动失败重试机制（2.5 秒 / 10 秒 / 30 秒）",
