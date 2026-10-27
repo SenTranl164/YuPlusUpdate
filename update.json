@@ -1,9 +1,9 @@
 {
-  "versionCode": 154,
-  "versionName": "6.4",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/SenTranl164/YuPlusUpdate@main/YuPlus-6.4-arm64-v8a.apk",
-  "md5": "cb58f9d6d61c136037a1c4464eded974",
-  "force": true,
-  "changelog": "6.4 正式版更新内容：\n1. 新增应用内自动检查更新，设置页可手动检查\n2. 线上学习支持多选与多标签页并行学习（课件/视频）\n3. 课件内嵌视频与独立视频支持自动播放、进度上报\n4. 试卷支持封面信息、再次答题与只读回看\n5. 新增桂工 AI 免登录自动答题\n6. 修复课件黑屏、大课件闪退、习题答案解析异常等问题",
+  "versionCode": 155,
+  "versionName": "6.4.1",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/SenTranl164/YuPlusUpdate@main/YuPlus-6.4.1-arm64-v8a.apk",
+  "md5": "f96fdc73e684e00473dea8dc2f030dec",
+  "force": false,
+  "changelog": "6.4.1 更新内容：\n1. 修复启动时自动检查更新在冷启动网络未就绪时一次失败后不再重试的问题\n2. 启动检查失败后自动重试（2.5 秒 / 10 秒 / 30 秒）\n3. 手动「检查更新」保持即时反馈",
   "publishedAt": "2026-10-27"
 }
